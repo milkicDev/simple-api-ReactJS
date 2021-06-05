@@ -58,8 +58,8 @@ class Index extends React.Component {
         cards.push(
           <Col
             sm={12}
-            md={3}
-            xl={2}
+            md={4}
+            lg={3}
             key={index}
             className='mb-4'
             onClick={() =>
